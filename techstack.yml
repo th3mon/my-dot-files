@@ -1,7 +1,8 @@
 repo_name: th3mon/my-dot-files
-report_id: 4d801803e3fcc23e5dd79c9883cf750f
+report_id: 8cf9f7f354dfb2b21206673047f3837e
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:42+00:00'
+timestamp: '2024-01-04T14:53:43+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/th3mon/my-dot-files
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/my-dot-files
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -34,4 +37,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/th3mon/my-dot-files
   detection_source: Repo Metadata
